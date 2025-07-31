@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=M720 Button Remapper
+Comment=Start Logitech M720 button remapping on login
+Exec=/home/usmandauna/Documents/extras/logitect-m7-20-key-remaper-linux/start_m720_remapper.sh
+Icon=input-mouse
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=10
