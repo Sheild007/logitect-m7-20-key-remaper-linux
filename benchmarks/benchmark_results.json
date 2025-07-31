@@ -1,0 +1,28 @@
+[
+  {
+    "approach": "Python Userspace",
+    "avg_latency_ms": 1.1386609455263899,
+    "min_latency_ms": 1.066877997800475,
+    "max_latency_ms": 1.3803679976263084,
+    "std_latency_ms": 0.062451190776090154,
+    "cpu_usage_percent": 0.0,
+    "memory_usage_mb": 9.687167835884354,
+    "missed_events": 0,
+    "total_events": 294,
+    "reliability_percent": 100.0,
+    "timestamp": 1753999463.0568268
+  },
+  {
+    "approach": "Hybrid (Estimated)",
+    "avg_latency_ms": 0.15,
+    "min_latency_ms": 0.1,
+    "max_latency_ms": 0.3,
+    "std_latency_ms": 0.05,
+    "cpu_usage_percent": 0.5,
+    "memory_usage_mb": 2.0,
+    "missed_events": 0,
+    "total_events": 300,
+    "reliability_percent": 100.0,
+    "timestamp": 1753999463.0568397
+  }
+]

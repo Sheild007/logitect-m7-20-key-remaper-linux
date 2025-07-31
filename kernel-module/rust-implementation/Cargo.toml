@@ -1,0 +1,17 @@
+[package]
+name = "m720_remapper_rust"
+version = "1.0.0"
+edition = "2021"
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+# Kernel Rust bindings (when available)
+# kernel = { path = "/path/to/kernel/rust/kernel" }
+
+[features]
+default = []
+
+# Note: This is experimental and requires kernel Rust support
+# Most distributions don't have this enabled yet
